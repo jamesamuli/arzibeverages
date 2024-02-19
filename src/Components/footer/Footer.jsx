@@ -13,7 +13,7 @@ export default function Footer() {
       <div className="h-px bg-white w-full"></div>
       <ItemsContainer />
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 text-center pt-2 text-gary-400 ">
-        <span>@ copyright all right reserved</span>
+        {/* <span>@ copyright all right reserved</span> */}
         <span>Arzi-Beverage Operating Company. All rights reserved.</span>
         <SocialItems Icons={Icons} />
       </div>

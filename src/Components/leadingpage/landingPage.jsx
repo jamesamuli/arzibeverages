@@ -95,7 +95,7 @@ export default function Landing() {
                             <img
                                 src={ceo}
                                 alt="ceo"
-                                loading="lazy"
+                                // loading="lazy"
                                 width="640"
                                 className="w-full h-full object-cover -rotate-45 scale-125 mx-auto transition duration-300"
                             />
@@ -112,7 +112,7 @@ export default function Landing() {
                             <img
                                 src={pm}
                                 alt="ceo"
-                                loading="lazy"
+                                // loading="lazy"
                                 width="640"
                                 className="w-full h-full object-cover -rotate-45 scale-125 mx-auto transition duration-300 group-hover:scale[1.4]"
                             />
@@ -129,7 +129,7 @@ export default function Landing() {
                             <img
                                 src={cto}
                                 alt="ceo"
-                                loading="lazy"
+                                // loading="lazy"
                                 width="640"
                                 className="w-full h-full object-cover -rotate-45 scale-125 mx-auto transition duration-300 group-hover:scale[1.4]"
                             />
@@ -185,7 +185,7 @@ export default function Landing() {
                             WhatsApp
                         </h2>
                         <p>
-                            +243 (0) 840 146 739 <br /> +243 (0) 998 215 728
+                            +243 (0) 844 740 889<br />+243 (0) 998 215 728
                         </p>
                     </div>
                 </div>
